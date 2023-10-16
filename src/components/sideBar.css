@@ -1,0 +1,59 @@
+.sideBar {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(31, 30, 30);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: start;
+  padding-left: 10px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  color: aliceblue;
+}
+
+h3 {
+  color: aliceblue;
+  font-family: 40px;
+}
+.explorer-title {
+  margin-left: 10px;
+  font-size: medium;
+  font-weight: normal;
+}
+.icons-light {
+  color: aliceblue;
+}
+.nameBox {
+  display: flex;
+  align-items: "center";
+  /* justify-content: center; */
+}
+.folder {
+  padding-left: 16px;
+}
+.folderTitle {
+  padding-bottom: 4px;
+}
+.folderHead {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icons-add-style {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5px;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+  /* margin-left: 5px; */
+  font-size: 15px;
+}

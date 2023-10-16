@@ -1,0 +1,24 @@
+{
+  "name": "sample-new-project",
+  "type": "folder",
+  "id": "1",
+  "items": [
+    {
+      "name": "projectData.json",
+      "type": "file",
+      "id": "1.1"
+    },
+    {
+      "name": "components",
+      "type": "folder",
+      "id": "1.2",
+      "items": [
+        {
+          "name": "UserInterface.js",
+          "type": "file",
+          "id": "1.2.1"
+        }
+      ]
+    }
+  ]
+}
